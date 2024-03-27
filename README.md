@@ -20,12 +20,12 @@ The data used in this analysis originates from Socialbuzz, offering a rich datas
 
 ## Getting Started
 
-To explore the analysis conducted in this project, simply open the Jupyter notebook (`content_analysis.ipynb`) in your preferred environment.
-
-## Dependencies
-The analysis notebook relies on common Python libraries. Install them using:
+- The analysis notebook relies on common Python libraries. Install them using:
 
 ```bash
 pip install -r requirements.txt
 ```
+
+- To explore the analysis conducted in this project, simply open the Jupyter notebook (`content_analysis.ipynb`) in your preferred environment.
+
 
