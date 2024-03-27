@@ -13,10 +13,6 @@ This repository contains a comprehensive analysis of data sourced from Socialbuz
 - **Notebook:** The core of this project is a Jupyter notebook (`content_analysis.ipynb`) that explores the datasets, conducts thorough analyses, and visualizes findings.
 
 
-## Data Source
-
-The data used in this analysis originates from Socialbuzz, offering a rich dataset for investigating social media trends and user engagement patterns.
-
 ## Analysis Highlights
 
 - **Data Exploration:** Detailed exploration of the dataset to understand its structure, attributes, and potential insights.
