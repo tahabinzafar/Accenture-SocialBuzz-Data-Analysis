@@ -6,7 +6,12 @@ This repository contains a comprehensive analysis of data sourced from Socialbuz
 
 ## Project Structure
 
+- **Client's Briefing:** Refer to Client's briefing uploaded as (`Data_Analytics Clief Brief.pdf`) for requirement gathering.
+
+- **Data:** Datasets are uploaded in data folder.
+
 - **Notebook:** The core of this project is a Jupyter notebook (`content_analysis.ipynb`) that explores the datasets, conducts thorough analyses, and visualizes findings.
+
 
 ## Data Source
 
